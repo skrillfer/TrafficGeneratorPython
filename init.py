@@ -1,6 +1,6 @@
 import requests
 
-address_ip ='192.168.10.159'
+address_ip ='192.168.43.34'
 port = '3000'
 
 def getDataFromServer():
@@ -22,7 +22,7 @@ def main():
         sendDataToServer()
     except Exception as e:
         print(e)
-
+        
 #call the main fuction for this module init.py
 if __name__ == '__main__':
     main()
