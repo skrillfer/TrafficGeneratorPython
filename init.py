@@ -7,9 +7,19 @@ def getDataFromServer():
     r = requests.get('http://'+address_ip+':'+port)
     print(r.text)
 
+def sendDataToServer():
+    r = requests.post('http://'+address_ip+':'+port+'/data', data = {'message':'success received'})
+    print(r.text)
+
 def main():
+    #Getting data from server
     try:
         getDataFromServer()    
+    except Exception as e:
+        print(e)
+    #Sending data to server
+    try:
+        sendDataToServer()
     except Exception as e:
         print(e)
 
