@@ -59,6 +59,8 @@ class Aplicacion():
 
         #Concurrency
         OPTIONS = [
+        "10",
+        "100",
         "1000",
         "2000",
         "3000"
@@ -134,10 +136,13 @@ class Aplicacion():
         #verifing if all values are correct
         if checkAllValues(url,request,concurrency,timeOut,filePath):
             #Thread(target=self.progress).start()
-            self.startSendRequest(url,request,concurrency,timeOut,filePath)
+            for i in range(int(concurrency)):
+                Thread(target=self.startSendRequest(url,request,concurrency,timeOut,filePath)).start()
+
             print('Finalizado')
     def startSendRequest(self,url,request,concurrency,timeOut,filePath):
-        Traffic.sendDataToServer(url,int(timeOut))
+        for i in range(int(request)):
+            Traffic.sendDataToServer(url,int(timeOut))
 
     def progress(self):
         print('')
