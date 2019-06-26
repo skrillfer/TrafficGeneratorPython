@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import os
+import moduleGeneratorTraffic as Traffic
 from threading import Thread
 import time
 
 from tkinter import *
 from tkinter import filedialog
+from tkinter import messagebox
 
 from tkinter import ttk
 
@@ -44,14 +47,14 @@ class Aplicacion():
         self.lblURL = Label(self.raiz, text = "URL:")
         self.lblURL.place(x=10,y=40)
 
-        self.inputURL = Entry(self.raiz, bd = 5)
+        self.inputURL = Entry(self.raiz, bd = 2, width=50)
         self.inputURL.place(x=100,y=40)
 
         #Solicitudes
         self.lblRequest = Label(self.raiz, text = "Solicitudes:")
         self.lblRequest.place(x=10,y=70)
 
-        self.inputRequest = Entry(self.raiz, bd = 5)
+        self.inputRequest = Entry(self.raiz, bd = 2)
         self.inputRequest.place(x=100,y=70)
 
         #Concurrency
@@ -64,10 +67,10 @@ class Aplicacion():
         self.lblConcurrency = Label(self.raiz, text = "Concurrencia:")
         self.lblConcurrency.place(x=10,y=125)
 
-        variable = StringVar(self.raiz)
-        variable.set(OPTIONS[0]) # default value
+        self.variable = StringVar(self.raiz)
+        self.variable.set(OPTIONS[0]) # default value
 
-        self.choiseConcurrency = OptionMenu(self.raiz, variable, *OPTIONS)
+        self.choiseConcurrency = OptionMenu(self.raiz, self.variable, *OPTIONS)
         self.choiseConcurrency.place(x=110,y=120)
         
         #Parametros
@@ -91,10 +94,10 @@ class Aplicacion():
         self.lblTimeOut = Label(self.raiz, text = "TimeOut:")
         self.lblTimeOut.place(x=10,y=235)
 
-        variable2 = StringVar(self.raiz)
-        variable2.set(OPTIONS2[0]) # default value
+        self.variable2 = StringVar(self.raiz)
+        self.variable2.set(OPTIONS2[0]) # default value
 
-        self.choiseTimeOut = OptionMenu(self.raiz, variable2, *OPTIONS2)
+        self.choiseTimeOut = OptionMenu(self.raiz, self.variable2, *OPTIONS2)
         self.choiseTimeOut.place(x=110,y=230)
         
         #ProgressBar
@@ -122,15 +125,27 @@ class Aplicacion():
 
 #https://recursospython.com/guias-y-manuales/barra-de-progreso-progressbar-tcltk-tkinter/
     def execute(self):
-        Thread(target=self.progress).start()
-        print('Finalizado')
+        #getting values input in the UI app
+        url         = self.inputURL.get()
+        request     = self.inputRequest.get()
+        concurrency = self.variable.get()
+        timeOut     = self.variable2.get()
+        filePath    = self.inputFile.get()
+        #verifing if all values are correct
+        if checkAllValues(url,request,concurrency,timeOut,filePath):
+            #Thread(target=self.progress).start()
+            self.startSendRequest(url,request,concurrency,timeOut,filePath)
+            print('Finalizado')
+    def startSendRequest(self,url,request,concurrency,timeOut,filePath):
+        Traffic.sendDataToServer(url,int(timeOut))
 
     def progress(self):
-        for x in range(101):
+        print('')
+        '''for x in range(101):
             print(x)
             #self.pbar_ind.step(0)
             self.pbar_ind["value"]=x
-            #time.sleep(1)
+            #time.sleep(1)'''
 
     def print_path(self):
         f = filedialog.askopenfilename(
@@ -140,6 +155,29 @@ class Aplicacion():
             )
         global entryText
         entryText.set(f)
+
+def checkAllValues(url,request,concurrency,timeOut,filePath):
+    checkOk = True
+    if filePath:
+            if not os.path.exists(filePath):
+                checkOk = False
+                messagebox.showinfo("Alert!!",'Parameters source:'+filePath+' not exist')
+    else:
+        checkOk = False
+        messagebox.showinfo("Alert!!",'Parameters source is null o empty')
+
+    if not(url and request and concurrency and timeOut):
+        checkOk = False
+        messagebox.showinfo("Alert!!",'some value was not entered, please check it!!!')
+    else:
+        if not isNumber(request):
+            checkOk = False
+            messagebox.showinfo("Alert!!",'the value of request is invalid, It should be a number')
+    return checkOk
+
+def isNumber(val):
+    return val.isdigit()
+
 def main():
     mi_app = Aplicacion()
     return 0
