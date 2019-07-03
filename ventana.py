@@ -189,8 +189,16 @@ def isNumber(val):
 
 def getDataFromFile():
     print('gettin data')
-    Source.createInstanceFile()
-    print(Source.getRowRandom())
+    try:
+        Source.createInstanceFile()
+    except:
+        print("An error occurred in createInstaceFile")
+    #--------------------------------------------------
+    try:
+        print(Source.getRowRandom())
+    except:
+        print("An error occurred in getRowRandom()")
+
 def main():
     mi_app = Aplicacion()
     return 0
