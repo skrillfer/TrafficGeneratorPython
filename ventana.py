@@ -145,24 +145,15 @@ class Aplicacion():
     def on_done(self,i):
         self.pbar_ind["value"]=(i+1)*100/int(self.variable.get())
         time.sleep(0.05)
+        #force update UI
         self.raiz.update_idletasks()
-        #print('finish:'+str((i+1)*100/int(self.variable.get())))
 
     def startSendRequest(self,url,request,concurrency,timeOut,filePath,x):
         for i in range(int(request)):
             Traffic.sendDataToServer(url,int(timeOut))
+        #update progress bar
         self.on_done(x)
-        #Thread(target=self.on_done(x)).start()
-        
-
-    def progress(self):
-        print('')
-        '''for x in range(101):
-            print(x)
-            #self.pbar_ind.step(0)
-            self.pbar_ind["value"]=x
-            #time.sleep(1)'''
-
+    
     def print_path(self):
         f = filedialog.askopenfilename(
             parent=self.raiz, initialdir='/home/fernando/Desktop',
