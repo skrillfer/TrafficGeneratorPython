@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 import os
 import moduleGeneratorTraffic as Traffic
+import moduleReadFile as Source
+
 from threading import Thread
 import time
 
@@ -127,6 +129,8 @@ class Aplicacion():
 
 #https://recursospython.com/guias-y-manuales/barra-de-progreso-progressbar-tcltk-tkinter/
     def execute(self):
+        #test getData
+        getDataFromFile()
         #getting values input in the UI app
         url         = self.inputURL.get()
         request     = self.inputRequest.get()
@@ -183,6 +187,10 @@ def checkAllValues(url,request,concurrency,timeOut,filePath):
 def isNumber(val):
     return val.isdigit()
 
+def getDataFromFile():
+    print('gettin data')
+    Source.createInstanceFile()
+    print(Source.getRowRandom())
 def main():
     mi_app = Aplicacion()
     return 0
