@@ -1,42 +1,27 @@
+import re
+
 import random
-import xlrd
 
-#constants
-SIZEROWSCATE=28
-SIZEROWSTRAF=179
+arrayLines = []
 
-sheetCategory = None
-sheetTraffic  = None
-def createInstanceFile():
-    global sheetCategory
-    global sheetTraffic
-    if sheetCategory != None or sheetTraffic!=None:
-        return
-    #gettin Instance from BDCategory
-    locationCategory =("data/BDCategory.xlsx")
-    wbCategory = xlrd.open_workbook(locationCategory)
-    sheetCategory = wbCategory.sheet_by_index(0)
-    #gettin Instance from BDTraffic
-    locationTraffic =("data/BDTraffic.xlsx")
-    wbTraffic = xlrd.open_workbook(locationTraffic)
-    sheetTraffic = wbTraffic.sheet_by_index(0)
-    
-def getRowRandom():
-    global sheetTraffic
-    global SIZEROWSTRAF
-    global sheetCategory
-    global SIZEROWSCATE
+def getLineRandom():
     dataHash = {}
-    #Reading all columns from random row in sheetCategory
-    arrayCategory=[]
-    for i in range(sheetCategory.ncols):
-        arrayCategory.append(sheetCategory.cell_value(random.randint(1,SIZEROWSCATE), i))
-    print('#Read Row in Category Success')
-    #Reading all columns from random row in sheetTraffic
-    arrayCredentialUser=[]
-    for i in range(sheetTraffic.ncols): 
-        arrayCredentialUser.append(sheetTraffic.cell_value(random.randint(1,SIZEROWSTRAF), i))
-    print('#Read Row in Traffic Success')
-    dataHash["category"] = arrayCategory
-    dataHash["credentials"] = arrayCredentialUser
+    lines = [line.rstrip('\n') for line in open('data/example.txt')]
+    line  = lines[ random.randint(0, (len(lines)-1) )]
+    linesSeparator = line.split('&amp;')
+    
+    usr = linesSeparator[0]
+    dataHash['usr']=usr.replace('usr=','')
+    nom = linesSeparator[1]
+    dataHash['nom']=nom.replace('nom=','')
+    txt = linesSeparator[2]
+    dataHash['txt']=txt.replace('txt=','')
+
+    arrayCategory =[]
+    searchTag =re.findall('#[^( |#|,|)]*',txt)
+    #searchTag =re.findall('#[^( |#|,|)]*','¡Escuchá, esa es la canción que #otro,#otro quiero poner en mi casamiento! #crash')
+    if searchTag:
+        for tag in searchTag:
+           arrayCategory.append(tag)
+    dataHash['categorys'] = arrayCategory
     return dataHash
