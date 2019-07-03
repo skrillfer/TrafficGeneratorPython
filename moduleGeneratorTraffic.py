@@ -1,4 +1,5 @@
 import requests
+import moduleReadFile as Source
 from tkinter import messagebox
 from requests.exceptions import ConnectionError
 
@@ -12,12 +13,29 @@ def getDataFromServer():
 def sendDataToServer(url,timeOut):
     response = None
     try:
-        response = requests.post(url+'/data', data = {'message':'success received'}, timeout=timeOut)
+        arrayData = getDataFromFile()
+        credentials = arrayData["credentials"]
+        category    = arrayData["category"]
+        dataJson = {'name':credentials[0],'username':credentials[1],'phrase':category[0],'tag':category[1]}
+        response = requests.post(url+'/data', data = dataJson, timeout=timeOut)
         print(response.text)
     except requests.Timeout:
         messagebox.showinfo('Error','TimeOut exceeded:'+timeOut)
     except ConnectionError as e:
         messagebox.showinfo('Error','Connection Error:'+str(e))
+
+def getDataFromFile():
+    print('gettin data')
+    try:
+        Source.createInstanceFile()
+    except:
+        print("An error occurred in createInstaceFile")
+    #--------------------------------------------------
+    try:
+        return Source.getRowRandom()
+    except:
+        print("An error occurred in getRowRandom()")
+    return None
 
 def main():
     #Getting data from server

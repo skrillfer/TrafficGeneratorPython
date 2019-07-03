@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import os
 import moduleGeneratorTraffic as Traffic
-import moduleReadFile as Source
 
 from threading import Thread
 import time
@@ -129,8 +128,7 @@ class Aplicacion():
 
 #https://recursospython.com/guias-y-manuales/barra-de-progreso-progressbar-tcltk-tkinter/
     def execute(self):
-        #test getData
-        getDataFromFile()
+        
         #getting values input in the UI app
         url         = self.inputURL.get()
         request     = self.inputRequest.get()
@@ -141,12 +139,21 @@ class Aplicacion():
         if checkAllValues(url,request,concurrency,timeOut,filePath):
             #Thread(target=self.progress).start()
             for i in range(int(concurrency)):
-                Thread(target=self.startSendRequest(url,request,concurrency,timeOut,filePath)).start()
-
+                Thread(target=self.startSendRequest(url,request,concurrency,timeOut,filePath,i)).start()
             print('Finalizado')
-    def startSendRequest(self,url,request,concurrency,timeOut,filePath):
+
+    def on_done(self,i):
+        self.pbar_ind["value"]=(i+1)*100/int(self.variable.get())
+        time.sleep(0.05)
+        self.raiz.update_idletasks()
+        #print('finish:'+str((i+1)*100/int(self.variable.get())))
+
+    def startSendRequest(self,url,request,concurrency,timeOut,filePath,x):
         for i in range(int(request)):
             Traffic.sendDataToServer(url,int(timeOut))
+        self.on_done(x)
+        #Thread(target=self.on_done(x)).start()
+        
 
     def progress(self):
         print('')
@@ -187,17 +194,6 @@ def checkAllValues(url,request,concurrency,timeOut,filePath):
 def isNumber(val):
     return val.isdigit()
 
-def getDataFromFile():
-    print('gettin data')
-    try:
-        Source.createInstanceFile()
-    except:
-        print("An error occurred in createInstaceFile")
-    #--------------------------------------------------
-    try:
-        print(Source.getRowRandom())
-    except:
-        print("An error occurred in getRowRandom()")
 
 def main():
     mi_app = Aplicacion()
