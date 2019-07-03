@@ -17,8 +17,9 @@ def sendDataToServer(url,timeOut):
         credentials = arrayData["credentials"]
         category    = arrayData["category"]
         dataJson = {'name':credentials[0],'username':credentials[1],'phrase':category[0],'tag':category[1]}
-        response = requests.post(url+'/data', data = dataJson, timeout=timeOut)
-        print(response.text)
+        appendToFile('usr='+dataJson['username']+'&amp;'+'nom='+dataJson['name']+'&amp;'+'txt='+dataJson['phrase']+' '+dataJson['tag'])
+        #response = requests.post(url+'/data', data = dataJson, timeout=timeOut)
+        #print(response.text)
     except requests.Timeout:
         messagebox.showinfo('Error','TimeOut exceeded:'+timeOut)
     except ConnectionError as e:
@@ -37,6 +38,11 @@ def getDataFromFile():
         print("An error occurred in getRowRandom()")
     return None
 
+
+def appendToFile(line):
+    with open("data/example.txt", "a") as myfile:
+        myfile.write(line+"\n")
+    
 def main():
     #Getting data from server
     try:
