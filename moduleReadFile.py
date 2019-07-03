@@ -1,12 +1,13 @@
 import re
-
 import random
 
-arrayLines = []
+lines = None
 
 def getLineRandom():
     dataHash = {}
-    lines = [line.rstrip('\n') for line in open('data/example.txt')]
+    global lines
+    if not lines:
+        lines = [line.rstrip('\n') for line in open('data/example.txt')]
     line  = lines[ random.randint(0, (len(lines)-1) )]
     linesSeparator = line.split('&amp;')
     

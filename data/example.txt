@@ -1,0 +1,500 @@
+usr=nbvino&amp;nom=NESTOR LEONARDO PATIÑO NEIRA&amp;txt=¡Qué mal jugó tu hermano ayer! #sad
+usr=qwergjwg&amp;nom=ZANDRA LUCIA ALFONSO PEÑA&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #No
+usr=gblcxtqwr&amp;nom=PAULO ANDRES TORO&amp;txt=¡Todo tengo que hacerlo yo! #feliz
+usr=iegtafq&amp;nom=SANDRA PATRICIA GARZON JIMENEZ&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #impresionante
+usr=mscfeuf&amp;nom=LUIS FELIPE REINOSA LOPEZ&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #impresionante
+usr=fqjclp&amp;nom=FABIAN RICO RODRIGUEZ&amp;txt=¡Está entrando agua por la ventanilla de atrás! #QueremosPastel
+usr=eoryiw&amp;nom=MARIA DEL PILAR CASTILLO PINILLA&amp;txt=¡Me olvidé el grabador de voz! #Nosirve
+usr=acggxi&amp;nom=AMELIA PEREZ TABARES&amp;txt=¡Qué lindo que es el paisaje de este lugar! #impactad@
+usr=djrgfo&amp;nom=PAOLA ANDREA GALVIS ZAMORA&amp;txt=¡Se te rompió el cierre del pantalón! #fitness
+usr=gcikalm&amp;nom=YANIRA ARIAS IZQUIERDO&amp;txt=¡Amo la torta de chocolate! #Nosirve
+usr=jtwxun&amp;nom=LAURA GISELA RODRIGUEZ LEGUIZAMON&amp;txt=¡Qué mal jugó tu hermano ayer! #critica
+usr=qclacbid&amp;nom=JORGE HUMBERTO REINA RUEDA&amp;txt=¡Amo la torta de chocolate! #recuerdo
+usr=igijynjl&amp;nom=MARY LUZ CORTES MUÑOZ&amp;txt=¡Qué lindo que es el paisaje de este lugar! #feliz
+usr=uboqigje&amp;nom=ROCIO LILIANA VELASQUEZ BEJARANO&amp;txt=¡Todo tengo que hacerlo yo! #puedeMejorar
+usr=poxfnq&amp;nom=MONICA YENIFER CUELLAR RAMIREZ&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #puedeMejorar
+usr=xykfknkbn&amp;nom=NESTOR ELIAS SABOGAL DIAZ&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #hastaAqui
+usr=xligkr&amp;nom=LUISA FERNANDA SANCHEZ&amp;txt=¡Qué golazo! #fitness
+usr=hmlpjjy&amp;nom=CAMILO ALEXANDER BOLIVAR FORERO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #feliz
+usr=nsmvfcejh&amp;nom=JOHANNA ULLOA GUARIN&amp;txt=¡Feliz cumpleaños! #enojad@
+usr=kghodrc&amp;nom=LUZ ROSARIO ARENAS LOPEZ&amp;txt=¡Estoy muy contenta por la noticia que me diste! #feliz
+usr=adxfinthk&amp;nom=LAURA GISELA RODRIGUEZ LEGUIZAMON&amp;txt=¡Está entrando agua por la ventanilla de atrás! #AmoComer
+usr=auhnhrfcr&amp;nom=LAURA GISELA RODRIGUEZ LEGUIZAMON&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #lindo
+usr=fgywymmpd&amp;nom=MARIA ELENA LOPEZ CHAPARRO&amp;txt=¡Cuidado que este estante está flojo! #impactad@
+usr=arbnje&amp;nom=SANDRA YUCELY  GONZALEZ HERNANDEZ&amp;txt=¡Nunca me escuchas cuando te hablo! #saleCine
+usr=thlmsfo&amp;nom=NIDIA LUZ ATEHORTUA GIRALDO&amp;txt=¡Este aparato es un desastre! #cuidado
+usr=eoryiw&amp;nom=YANIRA ARIAS IZQUIERDO&amp;txt=¡Nunca me escuchas cuando te hablo! #saleCine
+usr=etocil&amp;nom=ANDREA YOHANNA PINZON YEPES&amp;txt=¡Nunca me escuchas cuando te hablo! #No
+usr=ccttpyphb&amp;nom=ANDREA PAOLA GUTIERREZ ROMERO&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #hastaAqui
+usr=oyecstum&amp;nom=MARIA ISABEL MENDEZ TORRES&amp;txt=¡Qué calor que hace en esta ciudad! #critica
+usr=vekfyg&amp;nom=GLORIA ROCIO CABRERA SANCHEZ&amp;txt=¡Este aparato es un desastre! #Enamorado
+usr=hgsrbqf&amp;nom=ERLEY CAMACHO MENDOZA&amp;txt=¡Qué golazo! #fitness
+usr=lccuwnn&amp;nom=SONIA PATRICIA CAMARGO URREA&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #Todoyo
+usr=rpbdasmf&amp;nom=NANCY MIREYA GONZALEZ TAUTIVA&amp;txt=¡Qué calor que hace en esta ciudad! #lindo
+usr=vaurrbuqo&amp;nom=KETTY LOPEZ CONEO&amp;txt=¡Nunca me escuchas cuando te hablo! #sad
+usr=sxenrxi&amp;nom=LUIS FERNANDO TORRADO LEMUS&amp;txt=¡Cada día te extraño más! #hambre
+usr=lhrybp&amp;nom=JORGE HUMBERTO REINA RUEDA&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #Hate
+usr=immyvscgy&amp;nom=LUZ MARITZA ROJAS PINILLA&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #lindo
+usr=ygugtmbd&amp;nom=LUISA FERNANDA SANCHEZ&amp;txt=¡Estoy muy contenta por la noticia que me diste! #lindo
+usr=qclacbid&amp;nom=NORMA BEATRIZ JURADO CORTES&amp;txt=¡Feliz cumpleaños! #Todoyo
+usr=qclacbid&amp;nom=REINALDO VALBUENA CARRERO&amp;txt=¡Qué calor que hace en esta ciudad! #puedeMejorar
+usr=jiwpnum&amp;nom=KAREN IVETTE MANOSALVA GOMEZ&amp;txt=¡Qué calor que hace en esta ciudad! #impresionante
+usr=auhnhrfcr&amp;nom=JESUS ALVEIRO VERGEL GRECO&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #ImissYou
+usr=oyecstum&amp;nom=MARTHA ADRIANA VILLARREAL MASMELA&amp;txt=¡Qué golazo! #Nosirve
+usr=hgsrbqf&amp;nom=SANDRA CRISTINA DUEÑAS RUIZ&amp;txt=¡Feliz cumpleaños! #enojad@
+usr=xgtxunjt&amp;nom=JUAN DE JESUS VALENCIA AREVALO&amp;txt=¡Qué calor que hace en esta ciudad! #hambre
+usr=iuodbystb&amp;nom=MARIA CONSTANZA NIÑO RODRIGUEZ&amp;txt=¡Estoy cansada de que me critiques! #enojad@
+usr=ccttpyphb&amp;nom=CAMILO ALEXANDER BOLIVAR FORERO&amp;txt=¡Qué golazo! #impresionante
+usr=yeaildaii&amp;nom=LUZ MARINA MORALES GARCIA&amp;txt=¡Está entrando agua por la ventanilla de atrás! #critica
+usr=arbnje&amp;nom=RUBY JACQUELINE ALFONSO VILLAMIL&amp;txt=¡Qué golazo! #impactad@
+usr=thaecb&amp;nom=MIRLEDIS JOHANA CERA BELEÑO&amp;txt=¡Qué lindo que es el paisaje de este lugar! #cuidado
+usr=jvklxdti&amp;nom=OLGA MERCEDES HIGUERA RODRIGUEZ&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #sad
+usr=fgywymmpd&amp;nom=CLAUDIA PATRICIA GALLO CIFUENTES&amp;txt=¡Cuidado que este estante está flojo! #cuidado
+usr=uqkglkmns&amp;nom=ERIKA ANDREA VANEGAS HERRERA&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #deseo
+usr=pwrfqkd&amp;nom=JENNY PAOLA RODRIGUEZ MORENO&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impresionante
+usr=rpfryr&amp;nom=AMPARO MONTOYA MONTOYA&amp;txt=¡Qué mal jugó tu hermano ayer! #saleCine
+usr=xligkr&amp;nom=LINA JHINET ESPITIA LEON&amp;txt=¡Qué lindo que es el paisaje de este lugar! #hambre
+usr=gcikalm&amp;nom=MARCELA DE LOS ANGELES GARCIA TORRES&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #Enamorado
+usr=xfhmrl&amp;nom=CLAUDIA PATRICIA BOLIVAR CARREÑO&amp;txt=¡Cuidado que este estante está flojo! #impresionad@
+usr=poompyudq&amp;nom=GLORIA ISABEL MARTINEZ PARRA&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #impresionad@
+usr=thaecb&amp;nom=CLAUDIA PATRICIA GALLO CIFUENTES&amp;txt=¡Qué lindo que es el paisaje de este lugar! #Todoyo
+usr=ydnovk&amp;nom=AMELIA PEREZ TABARES&amp;txt=¡Cuidado que este estante está flojo! #Hate
+usr=acboxa&amp;nom=LUZ MARINA LAGOS CAMACHO&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #cuidado
+usr=tsnqefd&amp;nom=AYDA CATALINA PULIDO CHAPARRO&amp;txt=¡Qué lindo que te quedó el corte de pelo! #AmoComer
+usr=mucmraou&amp;nom=SANDRA YUCELY  GONZALEZ HERNANDEZ&amp;txt=¡No puedo creer lo que me estás contando! #calor
+usr=uqkglkmns&amp;nom=ANA MARIA LOZANO SANTOS&amp;txt=¡Qué calor que hace en esta ciudad! #impresionante
+usr=pdtwou&amp;nom=MARIA DEL PILAR BARAJAS TABIMA&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #ImissYou
+usr=kkojupst&amp;nom=MARTHA ELVIRA ZAMBRANO BALLEN&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #feliz
+usr=eubklpty&amp;nom=JAVIER ORLANDO CORREDOR GARCIA&amp;txt=¡No puedo creer lo que me estás contando! #critica
+usr=vwnebegtt&amp;nom=MARIA ELENA SALGADO MORENO&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #hastaAqui
+usr=hgsrbqf&amp;nom=LUZ MARINA MORALES GARCIA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #impresionad@
+usr=gjhjbdalf&amp;nom=DIANA MILENA SABOGAL RAMIREZ&amp;txt=¡Qué golazo! #fitness
+usr=xykfknkbn&amp;nom=CELMIRA PATRICIA ARROYAVE CORREDOR&amp;txt=¡No me digas! #cuidado
+usr=eubklpty&amp;nom=MARIA DEL PILAR ESPITIA MARTINEZ&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #QueremosPastel
+usr=poompyudq&amp;nom=LUZ MARITZA ROJAS PINILLA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #calor
+usr=pwrfqkd&amp;nom=MARTHA ELVIRA ZAMBRANO BALLEN&amp;txt=¡No me digas! #calor
+usr=cfiijelel&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Está entrando agua por la ventanilla de atrás! #saleCine
+usr=nguxqo&amp;nom=SANDRA PATRICIA HERRERA SANABRIA&amp;txt=¡Qué calor que hace en esta ciudad! #impactad@
+usr=thlmsfo&amp;nom=SANDRA CRISTINA DUEÑAS RUIZ&amp;txt=¡Qué mal jugó tu hermano ayer! #Enamorado
+usr=rqgfjwf&amp;nom=MARIA LILIANA MARTINEZ RIVADENEIRA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #enojad@
+usr=wtjeypxyr&amp;nom=MARTHA STELLA AGUILLON GERENAS&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #Enamorado
+usr=xrfnchfj&amp;nom=LINA JHINET ESPITIA LEON&amp;txt=¡Nunca me escuchas cuando te hablo! #sad
+usr=iegtafq&amp;nom=LIGIA YANETD GUERRERO MAHECHA&amp;txt=¡Feliz cumpleaños! #duda
+usr=uqkglkmns&amp;nom=SONIA PATRICIA CAMARGO URREA&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impresionante
+usr=vpfafggx&amp;nom=MARIA LILIANA MARTINEZ RIVADENEIRA&amp;txt=¡Qué mujer más bonita! #crash
+usr=ndeudrno&amp;nom=ISABEL GUIOMAR ANGELINA VILLAREAL TORRES&amp;txt=¡Estoy muy contenta por la noticia que me diste! #deseo
+usr=lwgojvy&amp;nom=CELMIRA PATRICIA ARROYAVE CORREDOR&amp;txt=¡Cuidado que este estante está flojo! #Enamorado
+usr=qhtrtfmcv&amp;nom=MILTON JOSE PERILLA BERNAL&amp;txt=¡Está entrando agua por la ventanilla de atrás! #impresionante
+usr=nxehqg&amp;nom=LUCRECIA PINEDA VARGAS&amp;txt=¡Qué calor que hace en esta ciudad! #fitness
+usr=mhnuub&amp;nom=NESTOR LEONARDO PATIÑO NEIRA&amp;txt=¡Qué mal jugó tu hermano ayer! #critica
+usr=ccttpyphb&amp;nom=JENNY TRUJILLO TOLEDO&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #cuidado
+usr=qtxlixvt&amp;nom=LUZ MARINA DOMINGUEZ RAMOS&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #lindo
+usr=vrrjuj&amp;nom=MARIA DEL PILAR BARAJAS TABIMA&amp;txt=¡Qué golazo! #calor
+usr=ydnovk&amp;nom=GABY ELENITH MANZANO URIBE&amp;txt=¡Cuidado que este estante está flojo! #QueremosPastel
+usr=vekfyg&amp;nom=SANDRA PATRICIA HERRERA SANABRIA&amp;txt=¡Cada día te extraño más! #No
+usr=xrfnchfj&amp;nom=MONICA QUINTERO PARRA&amp;txt=¡No puedo creer lo que me estás contando! #impresionante
+usr=ipgtlljww&amp;nom=DIANA CAROLINA PALACIOS ZAQUE&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #gol!!!
+usr=kghodrc&amp;nom=LUISA FERNANDA SANCHEZ PRADO&amp;txt=¡Este aparato es un desastre! #gol!!!
+usr=eoryiw&amp;nom=ERIKA YINETH VILLALBA OLAYA&amp;txt=¡Todo tengo que hacerlo yo! #AmoComer
+usr=yeaildaii&amp;nom=DIANA PATRICIA BENAVIDEZ SOLORZA&amp;txt=¡Feliz cumpleaños! #gol!!!
+usr=acggxi&amp;nom=LEONARDO GARZON RAMIREZ&amp;txt=¡Se te rompió el cierre del pantalón! #fitness
+usr=adxfinthk&amp;nom=BERTHA XIMENA PATRICIA BARBOSA TORRES&amp;txt=¡Estoy muy contenta por la noticia que me diste! #saleCine
+usr=djgxeuel&amp;nom=ALEJANDRA MARIA AGUDELO SUAREZ&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #Enamorado
+usr=avcjrjye&amp;nom=ERIKA YINETH VILLALBA OLAYA&amp;txt=¡No puedo creer lo que me estás contando! #gol!!!
+usr=rpbdasmf&amp;nom=MARTHA JEANETH AVILA MEDINA&amp;txt=¡Me olvidé el grabador de voz! #lindo
+usr=pwrfqkd&amp;nom=CONSUELO GUERRERO CALDERON&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #recuerdo
+usr=htbpitj&amp;nom=ZULENA MORA NAVAS&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #crash
+usr=xdslqywmo&amp;nom=LUIS FELIPE REINOSA LOPEZ&amp;txt=¡Qué mujer más bonita! #QueremosPastel
+usr=nlcsrgpdk&amp;nom=LUZ MARINA LAGOS CAMACHO&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #crash
+usr=nldobte&amp;nom=LEONARDO GARZON RAMIREZ&amp;txt=¡Qué mujer más bonita! #deseo
+usr=uujkmo&amp;nom=ZULENA MORA NAVAS&amp;txt=¡Qué mujer más bonita! #hambre
+usr=lsspyrkl&amp;nom=MILTON JOSE PERILLA BERNAL&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #impresionad@
+usr=qwulmqvql&amp;nom=MARCELA DE LOS ANGELES GARCIA TORRES&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impresionad@
+usr=mhnuub&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Qué calor que hace en esta ciudad! #Nosirve
+usr=ndeudrno&amp;nom=MARTHA STELLA AGUILLON GERENAS&amp;txt=¡Cuidado que este estante está flojo! #saleCine
+usr=iegtafq&amp;nom=WILDER JAVIER RINCON&amp;txt=¡Amo la torta de chocolate! #impresionante
+usr=nsmvfcejh&amp;nom=PAULO ANDRES TORO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #enojad@
+usr=mhnuub&amp;nom=MAGDA LILIANA ALAIX ACOSTA&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #impresionad@
+usr=nsauel&amp;nom=AMELIA PEREZ TABARES&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #No
+usr=nsmvfcejh&amp;nom=MARTHA CECILIA TRIVIÑO MELLIZOS&amp;txt=¡Feliz cumpleaños! #fitness
+usr=igijynjl&amp;nom=BERTHA XIMENA PATRICIA BARBOSA TORRES&amp;txt=¡Este aparato es un desastre! #recuerdo
+usr=ydnovk&amp;nom=MADIAN BOLIVAR SASTOQUE&amp;txt=¡Cuidado que este estante está flojo! #crash
+usr=ycoijkt&amp;nom=LEONOR MELO LOPEZ&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impactad@
+usr=afxclsww&amp;nom=CLAUDIA PILAR VANEGAS ORTIZ&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #QueremosPastel
+usr=arpemqxbx&amp;nom=NIDIA LUZ ATEHORTUA GIRALDO&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #Hate
+usr=kekgfqa&amp;nom=YURY LISSETH ESPITIA VILLALVA&amp;txt=¡Estoy cansada de que me critiques! #recuerdo
+usr=mddundgny&amp;nom=INGRID MAGALY GONZALEZ ROMERO&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #Hate
+usr=hxmigtmm&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Nunca me escuchas cuando te hablo! #Todoyo
+usr=nsauel&amp;nom=CELMIRA PATRICIA ARROYAVE CORREDOR&amp;txt=¡Qué mujer más bonita! #fitness
+usr=bmctvfcdy&amp;nom=SANDRA PATRICIA GARZON JIMENEZ&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #recuerdo
+usr=pdtwou&amp;nom=JORGE HUMBERTO REINA RUEDA&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #critica
+usr=bteopiall&amp;nom=DOLLY JANETH PRADA GUZMAN&amp;txt=¡Qué lindo que te quedó el corte de pelo! #enojad@
+usr=jvklxdti&amp;nom=MARIA ISABEL MENDEZ TORRES&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #gol!!!
+usr=adxfinthk&amp;nom=ROCIO MORA RODRIGUEZ&amp;txt=¡Este aparato es un desastre! #saleCine
+usr=tsnqefd&amp;nom=MONICA LOURDES CORTINA SILVA&amp;txt=¡Qué mujer más bonita! #recuerdo
+usr=nvrsbespf&amp;nom=MARTHA VILLAMIL GONZALEZ&amp;txt=¡No me digas! #Todoyo
+usr=eubklpty&amp;nom=ALEXANDER  DUARTE SANDOVAL&amp;txt=¡Qué calor que hace en esta ciudad! #critica
+usr=niiuslwc&amp;nom=MIGUEL ANGEL CHAPARRO BECERRA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #duda
+usr=jwoxolnkv&amp;nom=GUSTAVO ALBERTO MENDOZA LOPEZ&amp;txt=¡Está entrando agua por la ventanilla de atrás! #critica
+usr=wldlseede&amp;nom=MAGDA LILIANA ALAIX ACOSTA&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impresionad@
+usr=nfqvwvda&amp;nom=CONSTANZA AGUDELO FORERO&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #Nosirve
+usr=jmtpdh&amp;nom=LUIS FELIPE REINOSA LOPEZ&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #hambre
+usr=qqyxih&amp;nom=WILDER JAVIER RINCON&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #gol!!!
+usr=poxfnq&amp;nom=INGRID YANETH ENCISO RODRIGUEZ&amp;txt=¡Feliz cumpleaños! #enojad@
+usr=jmtpdh&amp;nom=ANDREA ARIZA ZAMBRANO&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #feliz
+usr=yystcndcw&amp;nom=DIANA PATRICIA AVILA SAENZ&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #QueremosPastel
+usr=xligkr&amp;nom=NORMA BEATRIZ JURADO CORTES&amp;txt=¡Este aparato es un desastre! #impresionad@
+usr=rqgfjwf&amp;nom=ADRIANA MARCELA SALCEDO SEGURA&amp;txt=¡Estoy cansada de que me critiques! #Nosirve
+usr=uqkglkmns&amp;nom=ADRIANA PAOLA CUJAR ALARCON&amp;txt=¡Está entrando agua por la ventanilla de atrás! #hambre
+usr=ddopyns&amp;nom=ERIKA ANDREA VANEGAS HERRERA&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #critica
+usr=ggpuuwc&amp;nom=JENNY PAOLA RODRIGUEZ MORENO&amp;txt=¡Todo tengo que hacerlo yo! #fitness
+usr=iegtafq&amp;nom=JUAN DE JESUS VALENCIA AREVALO&amp;txt=¡Estoy muy contenta por la noticia que me diste! #cuidado
+usr=ndeudrno&amp;nom=LUZ NANCY LANZA ANGULO&amp;txt=¡No me digas! #Enamorado
+usr=gcikalm&amp;nom=ROSA TULIA AMEZQUITA RIPE&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #impresionad@
+usr=thlmsfo&amp;nom=MARIA CONSTANZA NIÑO RODRIGUEZ&amp;txt=¡No puedo creer lo que me estás contando! #Hate
+usr=ycoijkt&amp;nom=PIEDAD CONSTANZA MORALES YARURO&amp;txt=¡Cuidado que este estante está flojo! #crash
+usr=kkojupst&amp;nom=MARTHA ELVIRA ZAMBRANO BALLEN&amp;txt=¡Qué golazo! #Todoyo
+usr=swctncnk&amp;nom=MARTHA JEANETH AVILA MEDINA&amp;txt=¡Todo tengo que hacerlo yo! #AmoComer
+usr=yeaildaii&amp;nom=RUBY JACQUELINE ALFONSO VILLAMIL&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #Hate
+usr=vtmtfaj&amp;nom=MARTHA VILLAMIL GONZALEZ&amp;txt=¡Estoy cansada de que me critiques! #cuidado
+usr=djrgfo&amp;nom=ANDREA ARIZA ZAMBRANO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #Nosirve
+usr=mcmjxbsdk&amp;nom=CLAUDIA MARCELAS LOZADA ARAGON&amp;txt=¡No me digas! #calor
+usr=sxenrxi&amp;nom=KAREN IVETTE MANOSALVA GOMEZ&amp;txt=¡Cada día te extraño más! #sad
+usr=pwrfqkd&amp;nom=BERTHA XIMENA PATRICIA BARBOSA TORRES&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #fitness
+usr=xdslqywmo&amp;nom=FABIAN RICO RODRIGUEZ&amp;txt=¡Qué lindo que te quedó el corte de pelo! #fitness
+usr=jiwpnum&amp;nom=SANDRA BEATRIZ SARMIENTO BEJARANO&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #Nosirve
+usr=hxmigtmm&amp;nom=BERTHA XIMENA PATRICIA BARBOSA TORRES&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #Hate
+usr=wuqhlg&amp;nom=LUIS FERNANDO TORRADO LEMUS&amp;txt=¡Está entrando agua por la ventanilla de atrás! #saleCine
+usr=iutlhhr&amp;nom=JOHANNA ULLOA GUARIN&amp;txt=¡No me digas! #recuerdo
+usr=aovlhiem&amp;nom=LINA PAOLA VARGA RIVEROS&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #No
+usr=qtxlixvt&amp;nom=JENNY PAOLA RODRIGUEZ MORENO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #recuerdo
+usr=nvrsbespf&amp;nom=ZANDRA LUCIA ALFONSO PEÑA&amp;txt=¡Nunca me escuchas cuando te hablo! #Nosirve
+usr=arpemqxbx&amp;nom=JORGE HUMBERTO REINA RUEDA&amp;txt=¡Qué golazo! #puedeMejorar
+usr=nkblxlk&amp;nom=ANDREA DEL PILAR GUZMAN ROJAS&amp;txt=¡No me digas! #ImissYou
+usr=dcvrainsf&amp;nom=PAOLA ANDREA GALVIS ZAMORA&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #feliz
+usr=uqkglkmns&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Está entrando agua por la ventanilla de atrás! #feliz
+usr=nkblxlk&amp;nom=LUISA FERNANDA MONTENEGRO VANEGAS&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #impresionante
+usr=qwulmqvql&amp;nom=MADIAN BOLIVAR SASTOQUE&amp;txt=¡Feliz cumpleaños! #impresionante
+usr=wtjeypxyr&amp;nom=DIANA PATRICIA AVILA SAENZ&amp;txt=¡Este aparato es un desastre! #Enamorado
+usr=xrfnchfj&amp;nom=LARISA HELENA GONZALES PATARROYO&amp;txt=¡Estoy muy contenta por la noticia que me diste! #deseo
+usr=nbvino&amp;nom=LARISA HELENA GONZALES PATARROYO&amp;txt=¡Me olvidé el grabador de voz! #calor
+usr=wtadbak&amp;nom=CONSUELO GUERRERO CALDERON&amp;txt=¡Está entrando agua por la ventanilla de atrás! #fitness
+usr=aitiuxev&amp;nom=LUZ ELENA VARGAS BALAGUERA&amp;txt=¡Está entrando agua por la ventanilla de atrás! #critica
+usr=qpxwrs&amp;nom=LIBIA ROSMIRA GONZALEZ NIÑO&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #recuerdo
+usr=wtadbak&amp;nom=HERMES JACOBO GARCIA GUACANEME&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #crash
+usr=eoryiw&amp;nom=JENNY TRUJILLO TOLEDO&amp;txt=¡Feliz cumpleaños! #hastaAqui
+usr=gwtaurxl&amp;nom=SANDRA CRISTINA DUEÑAS RUIZ&amp;txt=¡Está entrando agua por la ventanilla de atrás! #No
+usr=iutlhhr&amp;nom=JUAN DE JESUS VALENCIA AREVALO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #impresionad@
+usr=tsnqefd&amp;nom=ISABEL GUIOMAR ANGELINA VILLAREAL TORRES&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #crash
+usr=mcmjxbsdk&amp;nom=LUZ ROSARIO ARENAS LOPEZ&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #impresionad@
+usr=taltvkg&amp;nom=MARTHA CECILIA TRIVIÑO MELLIZOS&amp;txt=¡Estoy muy contenta por la noticia que me diste! #Enamorado
+usr=rubohmjfd&amp;nom=WILDER JAVIER RINCON&amp;txt=¡Cuidado que este estante está flojo! #hastaAqui
+usr=nsauel&amp;nom=PIEDAD CONSTANZA MORALES YARURO&amp;txt=¡Está entrando agua por la ventanilla de atrás! #No
+usr=lobhml&amp;nom=ANDREA YOHANNA PINZON YEPES&amp;txt=¡Este aparato es un desastre! #feliz
+usr=nvrsbespf&amp;nom=LUZ MARITZA ROJAS PINILLA&amp;txt=¡No puedo creer lo que me estás contando! #No
+usr=pdtwou&amp;nom=YEIMI YAMILE CASTILLO ROJAS&amp;txt=¡Cada día te extraño más! #impactad@
+usr=fgywymmpd&amp;nom=CLAUDIA PATRICIA BOLIVAR CARREÑO&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impactad@
+usr=qclacbid&amp;nom=LIBIA ROSMIRA GONZALEZ NIÑO&amp;txt=¡Estoy cansada de que me critiques! #impresionante
+usr=myynctovy&amp;nom=MAGDA LILIANA ALAIX ACOSTA&amp;txt=¡Qué lindo que es el paisaje de este lugar! #Todoyo
+usr=arbnje&amp;nom=ANDREA ARIZA ZAMBRANO&amp;txt=¡Cuidado que este estante está flojo! #enojad@
+usr=hkmpsuqt&amp;nom=MARIA ELENA LOPEZ CHAPARRO&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impresionad@
+usr=auhnhrfcr&amp;nom=HERMES JACOBO GARCIA GUACANEME&amp;txt=¡Cuidado que este estante está flojo! #Hate
+usr=nbvino&amp;nom=DIANA CAROLINA PALACIOS ZAQUE&amp;txt=¡Todo tengo que hacerlo yo! #calor
+usr=nxvyua&amp;nom=MONICA ALEJANDRA RIOS CORDOBA&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #QueremosPastel
+usr=cvypoqueo&amp;nom=NORMA BEATRIZ JURADO CORTES&amp;txt=¡Qué mujer más bonita! #puedeMejorar
+usr=oyecstum&amp;nom=NESTOR ELIAS SABOGAL DIAZ&amp;txt=¡Cuidado que este estante está flojo! #Nosirve
+usr=pdtwou&amp;nom=LUZ AMANDA LEON BERNAL&amp;txt=¡Qué lindo que te quedó el corte de pelo! #Hate
+usr=qwergjwg&amp;nom=CLAUDIA PILAR VANEGAS ORTIZ&amp;txt=¡Qué golazo! #deseo
+usr=lwgojvy&amp;nom=LUISA FERNANDA SANCHEZ PRADO&amp;txt=¡Me olvidé el grabador de voz! #AmoComer
+usr=lwgojvy&amp;nom=ERIKA ANDREA VANEGAS HERRERA&amp;txt=¡Qué lindo que te quedó el corte de pelo! #impactad@
+usr=ipgtlljww&amp;nom=AMELIA PEREZ TABARES&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #Hate
+usr=gjhjbdalf&amp;nom=PAULO ANDRES TORO&amp;txt=¡Me olvidé el grabador de voz! #impactad@
+usr=vrrjuj&amp;nom=PAULO ANDRES TORO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #Nosirve
+usr=ydnovk&amp;nom=LUZ MARINA DOMINGUEZ RAMOS&amp;txt=¡Qué golazo! #recuerdo
+usr=kghodrc&amp;nom=LUIS FELIPE REINOSA LOPEZ&amp;txt=¡Nunca me escuchas cuando te hablo! #No
+usr=vaurrbuqo&amp;nom=NORMA BEATRIZ JURADO CORTES&amp;txt=¡Qué calor que hace en esta ciudad! #No
+usr=ycoijkt&amp;nom=ADRIANA PAOLA CUJAR ALARCON&amp;txt=¡Qué golazo! #No
+usr=ijnwqy&amp;nom=MARTHA CONSUELO GOMEZ CORREDOR&amp;txt=¡Qué lindo que te quedó el corte de pelo! #hambre
+usr=dwcmuia&amp;nom=RUBY JACQUELINE ALFONSO VILLAMIL&amp;txt=¡Está entrando agua por la ventanilla de atrás! #gol!!!
+usr=rqgfjwf&amp;nom=CONSUELO REYES SUAREZ&amp;txt=¡Qué golazo! #Hate
+usr=wuqhlg&amp;nom=GUSTAVO ADOLFO DIAZ VERA&amp;txt=¡Me olvidé el grabador de voz! #AmoComer
+usr=nguxqo&amp;nom=NORMA CONSTANZA RAMIREZ PAEZ&amp;txt=¡Qué lindo que es el paisaje de este lugar! #puedeMejorar
+usr=kekgfqa&amp;nom=ROSA TULIA AMEZQUITA RIPE&amp;txt=¡Estoy muy contenta por la noticia que me diste! #saleCine
+usr=iegtafq&amp;nom=MARCELA DE LOS ANGELES GARCIA TORRES&amp;txt=¡Se te rompió el cierre del pantalón! #recuerdo
+usr=acggxi&amp;nom=DIANA MARCELA HERRERA HERRERA&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #hastaAqui
+usr=lobhml&amp;nom=MIGUEL ANGEL CHAPARRO BECERRA&amp;txt=¡Nunca me escuchas cuando te hablo! #crash
+usr=eiyrxv&amp;nom=CONSUELO GUERRERO CALDERON&amp;txt=¡Estoy cansada de que me critiques! #saleCine
+usr=kghodrc&amp;nom=CLAUDIA PATRICIA BOLIVAR CARREÑO&amp;txt=¡No me digas! #saleCine
+usr=eoryiw&amp;nom=MARIA DEL PILAR BARAJAS TABIMA&amp;txt=¡Cuidado que este estante está flojo! #saleCine
+usr=swctncnk&amp;nom=MONICA LOURDES CORTINA SILVA&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #QueremosPastel
+usr=kkojupst&amp;nom=DIANA MARCELA HERRERA HERRERA&amp;txt=¡Qué golazo! #AmoComer
+usr=ccttpyphb&amp;nom=ELKIN RONALD PUCHE VEGA&amp;txt=¡Qué lindo que te quedó el corte de pelo! #impactad@
+usr=afxclsww&amp;nom=NORMA BEATRIZ JURADO CORTES&amp;txt=¡Qué calor que hace en esta ciudad! #impresionante
+usr=djrgfo&amp;nom=SANDRA PATRICIA GARZON JIMENEZ&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #crash
+usr=kghodrc&amp;nom=DIANA MILENA SABOGAL RAMIREZ&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #saleCine
+usr=tsdtoa&amp;nom=JENNY TRUJILLO TOLEDO&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #Todoyo
+usr=berpoyb&amp;nom=GABY ELENITH MANZANO URIBE&amp;txt=¡Amo la torta de chocolate! #recuerdo
+usr=mcmjxbsdk&amp;nom=AMELIA PEREZ TABARES&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #recuerdo
+usr=vwnebegtt&amp;nom=TANIA MARCELA MANJARRES GARCIA&amp;txt=¡Qué mujer más bonita! #AmoComer
+usr=smrcxb&amp;nom=MADIAN BOLIVAR SASTOQUE&amp;txt=¡Se te rompió el cierre del pantalón! #QueremosPastel
+usr=rpbdasmf&amp;nom=AMELIA PEREZ TABARES&amp;txt=¡Cada día te extraño más! #feliz
+usr=sykgvlp&amp;nom=JORGE HUMBERTO REINA RUEDA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #deseo
+usr=smrcxb&amp;nom=ELIZABETH CARDENAS MARTINEZ&amp;txt=¡Se te rompió el cierre del pantalón! #lindo
+usr=wldlseede&amp;nom=MARTHA JEANETH AVILA MEDINA&amp;txt=¡Nunca me escuchas cuando te hablo! #sad
+usr=iutlhhr&amp;nom=MAGDA LILIANA ALAIX ACOSTA&amp;txt=¡Cuidado que este estante está flojo! #duda
+usr=xgtxunjt&amp;nom=MARTHA ADRIANA VILLARREAL MASMELA&amp;txt=¡Todo tengo que hacerlo yo! #QueremosPastel
+usr=nbvino&amp;nom=ANDREA DEL PILAR GUZMAN ROJAS&amp;txt=¡Estoy muy contenta por la noticia que me diste! #recuerdo
+usr=mscfeuf&amp;nom=ISABEL GUIOMAR ANGELINA VILLAREAL TORRES&amp;txt=¡Este aparato es un desastre! #recuerdo
+usr=wpvamh&amp;nom=JORGE HERNANDO DUEÑAS GOMEZ&amp;txt=¡No me digas! #enojad@
+usr=hlfhnefc&amp;nom=YULIAN VIVIANA ARIZA MOSQUERA&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #fitness
+usr=eubklpty&amp;nom=SANDRA MILENA COLMENARES RINCON&amp;txt=¡Feliz cumpleaños! #gol!!!
+usr=kekgfqa&amp;nom=GRACIELA TORRES TORRES&amp;txt=¡Amo la torta de chocolate! #hambre
+usr=wtadbak&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Qué mal jugó tu hermano ayer! #Enamorado
+usr=hgsrbqf&amp;nom=FANNY ESMERALDA PAEZ GONZALEZ&amp;txt=¡No me digas! #gol!!!
+usr=ypculleiw&amp;nom=AYDA CATALINA PULIDO CHAPARRO&amp;txt=¡Feliz cumpleaños! #hambre
+usr=mddundgny&amp;nom=CLAUDIA PATRICIA GALLO CIFUENTES&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #deseo
+usr=vpfafggx&amp;nom=NESTOR ELIAS SABOGAL DIAZ&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #saleCine
+usr=djrgfo&amp;nom=AYDA CATALINA PULIDO CHAPARRO&amp;txt=¡Qué calor que hace en esta ciudad! #impactad@
+usr=arbnje&amp;nom=SANDRA PATRICIA MANOSALVA AGUDELO&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #fitness
+usr=thaecb&amp;nom=FANNY ESMERALDA PAEZ GONZALEZ&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #critica
+usr=kkojupst&amp;nom=LUZ ROSARIO ARENAS LOPEZ&amp;txt=¡Estoy cansada de que me critiques! #deseo
+usr=eoryiw&amp;nom=CLAUDIA PILAR VANEGAS ORTIZ&amp;txt=¡Qué lindo que te quedó el corte de pelo! #recuerdo
+usr=jmtpdh&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #enojad@
+usr=kkojupst&amp;nom=MARIA DEL ROSARIO LOZANO MURILLO&amp;txt=¡No puedo creer lo que me estás contando! #feliz
+usr=niiuslwc&amp;nom=NANCY MARCELA HERNANDEZ PINILLA&amp;txt=¡Estoy cansada de que me critiques! #ImissYou
+usr=niiuslwc&amp;nom=MARTHA ADRIANA VILLARREAL MASMELA&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #impactad@
+usr=nlcsrgpdk&amp;nom=NORMA CONSTANZA RAMIREZ PAEZ&amp;txt=¡Se te rompió el cierre del pantalón! #Todoyo
+usr=rubohmjfd&amp;nom=KAREN IVETTE MANOSALVA GOMEZ&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #AmoComer
+usr=smrcxb&amp;nom=YADIRA XIMENA MORENO SARMIENTO&amp;txt=¡Todo tengo que hacerlo yo! #impactad@
+usr=mktullfkw&amp;nom=AMPARO MONTOYA MONTOYA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #crash
+usr=nsmvfcejh&amp;nom=FRANCE JURANNI CENDALES LADINO&amp;txt=¡No puedo creer lo que me estás contando! #AmoComer
+usr=hgsrbqf&amp;nom=FANNY ESMERALDA PAEZ GONZALEZ&amp;txt=¡Cuidado que este estante está flojo! #recuerdo
+usr=qwulmqvql&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Qué mujer más bonita! #lindo
+usr=lobhml&amp;nom=ANDREA PAOLA GUTIERREZ ROMERO&amp;txt=¡Qué golazo! #fitness
+usr=nfqvwvda&amp;nom=SONIA NELVY MARCELA CUBIDES CARBONELL&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #impresionad@
+usr=vtmtfaj&amp;nom=DIANA CAROLINA PALACIOS ZAQUE&amp;txt=¡Estoy cansada de que me critiques! #No
+usr=rqgfjwf&amp;nom=YANIRA ARIAS IZQUIERDO&amp;txt=¡Nunca me escuchas cuando te hablo! #critica
+usr=ccttpyphb&amp;nom=GILMA ESPINOSA DIAZ&amp;txt=¡Estoy cansada de que me critiques! #deseo
+usr=cfiijelel&amp;nom=KETTY LOPEZ CONEO&amp;txt=¡Se te rompió el cierre del pantalón! #hastaAqui
+usr=aitiuxev&amp;nom=MARIBEL PATIÑO ROMERO&amp;txt=¡Está entrando agua por la ventanilla de atrás! #Hate
+usr=adxfinthk&amp;nom=VICTORIA EUGENIA CASTAÑEDA QUICENO&amp;txt=¡Cuidado que este estante está flojo! #impresionante
+usr=nkewvv&amp;nom=LIGIA YANETD GUERRERO MAHECHA&amp;txt=¡Está entrando agua por la ventanilla de atrás! #ImissYou
+usr=pdcnexs&amp;nom=CLAUDIA MARCELAS LOZADA ARAGON&amp;txt=¡Nunca me escuchas cuando te hablo! #impresionante
+usr=mhnuub&amp;nom=VICTORIA EDITH SANCHEZ TORRES&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #AmoComer
+usr=xfhmrl&amp;nom=SANDRA MILENA COLMENARES RINCON&amp;txt=¡Qué mal jugó tu hermano ayer! #fitness
+usr=rpbdasmf&amp;nom=CLAUDIA PATRICIA BOLIVAR CARREÑO&amp;txt=¡Me olvidé el grabador de voz! #Todoyo
+usr=vtmtfaj&amp;nom=ROSA RODRIGUEZ LEON&amp;txt=¡Qué calor que hace en esta ciudad! #QueremosPastel
+usr=arbnje&amp;nom=ERLEY CAMACHO MENDOZA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #hastaAqui
+usr=cvypoqueo&amp;nom=ZULENA MORA NAVAS&amp;txt=¡Estoy muy contenta por la noticia que me diste! #saleCine
+usr=nfgntjt&amp;nom=MILTON JOSE PERILLA BERNAL&amp;txt=¡Qué mujer más bonita! #QueremosPastel
+usr=pdcnexs&amp;nom=LUIS ALEJANDRO VANEGAS VASQUEZ&amp;txt=¡Se te rompió el cierre del pantalón! #recuerdo
+usr=nknmea&amp;nom=GRACIELA TORRES TORRES&amp;txt=¡Qué lindo que te quedó el corte de pelo! #gol!!!
+usr=ydnovk&amp;nom=ALVARO CALDERON ARTUNDUAGA&amp;txt=¡No puedo creer lo que me estás contando! #lindo
+usr=onhpvsny&amp;nom=MARTHA ELVIRA ZAMBRANO BALLEN&amp;txt=¡Cuidado que este estante está flojo! #calor
+usr=eoryiw&amp;nom=MONICA LOURDES CORTINA SILVA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #cuidado
+usr=hmlpjjy&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Me olvidé el grabador de voz! #gol!!!
+usr=vpfafggx&amp;nom=LUZ MARITZA ROJAS PINILLA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #impresionad@
+usr=dsxduc&amp;nom=CLAUDIA PATRICIA GALLO CIFUENTES&amp;txt=¡Cuidado que este estante está flojo! #hambre
+usr=niiuslwc&amp;nom=MONICA QUINTERO PARRA&amp;txt=¡Este aparato es un desastre! #duda
+usr=bskrnebj&amp;nom=MARTHA STELLA AGUILLON GERENAS&amp;txt=¡Estoy cansada de que me critiques! #crash
+usr=rpfryr&amp;nom=GRACIELA TORRES TORRES&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #calor
+usr=swctncnk&amp;nom=LIBIA ROSMIRA GONZALEZ NIÑO&amp;txt=¡No me digas! #feliz
+usr=sykgvlp&amp;nom=MARCELA DE LOS ANGELES GARCIA TORRES&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #gol!!!
+usr=berpoyb&amp;nom=MARTHA PATRICIA FORERO SILVA&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #puedeMejorar
+usr=poxfnq&amp;nom=CLAUDIA PATRICIA BOLIVAR CARREÑO&amp;txt=¡Cuidado que este estante está flojo! #deseo
+usr=ypculleiw&amp;nom=INGRID MAGALY GONZALEZ ROMERO&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #impactad@
+usr=wpvamh&amp;nom=SANDRA PATRICIA HERRERA SANABRIA&amp;txt=¡Se te rompió el cierre del pantalón! #impresionad@
+usr=ddopyns&amp;nom=DIANA MARCELA HERRERA HERRERA&amp;txt=¡Qué mujer más bonita! #QueremosPastel
+usr=kghodrc&amp;nom=MARIBEL PATIÑO ROMERO&amp;txt=¡Qué lindo que te quedó el corte de pelo! #gol!!!
+usr=vekfyg&amp;nom=ISABEL GUIOMAR ANGELINA VILLAREAL TORRES&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #gol!!!
+usr=xligkr&amp;nom=WILDER JAVIER RINCON&amp;txt=¡Está entrando agua por la ventanilla de atrás! #sad
+usr=jyksrsk&amp;nom=JOHANNA ULLOA GUARIN&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #sad
+usr=ccttpyphb&amp;nom=GABY ELENITH MANZANO URIBE&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #AmoComer
+usr=lccuwnn&amp;nom=YEIMI YAMILE CASTILLO ROJAS&amp;txt=¡Cada día te extraño más! #Todoyo
+usr=wffbnsuke&amp;nom=LUZ MARINA LAGOS CAMACHO&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #crash
+usr=smrcxb&amp;nom=ROCIO LILIANA VELASQUEZ BEJARANO&amp;txt=¡Qué lindo que es el paisaje de este lugar! #crash
+usr=gjhjbdalf&amp;nom=ELIZABETH JAIMES SANCHEZ&amp;txt=¡Cada día te extraño más! #cuidado
+usr=xligkr&amp;nom=CONSTANZA AGUDELO FORERO&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #lindo
+usr=gcikalm&amp;nom=JORGE HERNANDO DUEÑAS GOMEZ&amp;txt=¡Me olvidé el grabador de voz! #recuerdo
+usr=acggxi&amp;nom=ALVARO CALDERON ARTUNDUAGA&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #Todoyo
+usr=nvrsbespf&amp;nom=GUSTAVO ADOLFO DIAZ VERA&amp;txt=¡Este aparato es un desastre! #No
+usr=fgywymmpd&amp;nom=SANDRA BEATRIZ SARMIENTO BEJARANO&amp;txt=¡Feliz cumpleaños! #recuerdo
+usr=ybmrmrql&amp;nom=GRACIELA TORRES TORRES&amp;txt=¡Cada día te extraño más! #Nosirve
+usr=wbjomsong&amp;nom=ROCIO LILIANA VELASQUEZ BEJARANO&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #recuerdo
+usr=pdcnexs&amp;nom=LILIA DE JESUS BORDA&amp;txt=¡Está entrando agua por la ventanilla de atrás! #puedeMejorar
+usr=sxenrxi&amp;nom=AMPARO MONTOYA MONTOYA&amp;txt=¡Qué mujer más bonita! #lindo
+usr=aovlhiem&amp;nom=PIEDAD CONSTANZA MORALES YARURO&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #sad
+usr=dsxduc&amp;nom=MARTHA ADRIANA VILLARREAL MASMELA&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #AmoComer
+usr=yeaildaii&amp;nom=VICTORIA EUGENIA CASTAÑEDA QUICENO&amp;txt=¡Feliz cumpleaños! #hastaAqui
+usr=wtjeypxyr&amp;nom=CAMILO ALEXANDER BOLIVAR FORERO&amp;txt=¡Qué lindo que te quedó el corte de pelo! #AmoComer
+usr=wuqhlg&amp;nom=GLORIA AMPARO PEREZ OSSA&amp;txt=¡Qué golazo! #Todoyo
+usr=pdtwou&amp;nom=LILIA DE JESUS BORDA&amp;txt=¡Nunca me escuchas cuando te hablo! #puedeMejorar
+usr=ndeudrno&amp;nom=MIGUEL ANGEL CHAPARRO BECERRA&amp;txt=¡Qué mal jugó tu hermano ayer! #ImissYou
+usr=uqkglkmns&amp;nom=LUZ ROSARIO ARENAS LOPEZ&amp;txt=¡Qué mal jugó tu hermano ayer! #gol!!!
+usr=gblcxtqwr&amp;nom=ELIZABETH CARDENAS MARTINEZ&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #enojad@
+usr=acboxa&amp;nom=ANDREA MARCELA BARRAGAN GARCIA&amp;txt=¡Amo la torta de chocolate! #lindo
+usr=jvklxdti&amp;nom=MONICA ALEJANDRA RIOS CORDOBA&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #calor
+usr=mlrybp&amp;nom=MARIA ELENA LOPEZ CHAPARRO&amp;txt=¡Amo la torta de chocolate! #fitness
+usr=ccttpyphb&amp;nom=ANDREA DEL PILAR GUZMAN ROJAS&amp;txt=¡Cuidado que este estante está flojo! #Hate
+usr=mucmraou&amp;nom=MARIA ELENA LOPEZ CHAPARRO&amp;txt=¡Se te rompió el cierre del pantalón! #Nosirve
+usr=cfiijelel&amp;nom=LUZ MARLEN ACOSTA BAEZ&amp;txt=¡Qué lindo que es el paisaje de este lugar! #deseo
+usr=pwrfqkd&amp;nom=ANA MARIA LOZANO SANTOS&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #feliz
+usr=iutlhhr&amp;nom=MIGUEL ANGEL CHAPARRO BECERRA&amp;txt=¡Cada día te extraño más! #lindo
+usr=nkewvv&amp;nom=MARIA CONSTANZA NIÑO RODRIGUEZ&amp;txt=¡Amo la torta de chocolate! #sad
+usr=nfqvwvda&amp;nom=MARTHA ELVIRA ZAMBRANO BALLEN&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #gol!!!
+usr=nbvino&amp;nom=SONIA ESPERANZA ALFONSO PEÑA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #impactad@
+usr=iutlhhr&amp;nom=DIANA MILENA SABOGAL RAMIREZ&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #deseo
+usr=xohbuir&amp;nom=SANDRA BEATRIZ SARMIENTO BEJARANO&amp;txt=¡Qué calor que hace en esta ciudad! #feliz
+usr=xfhmrl&amp;nom=MARTHA PATRICIA FORERO SILVA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #QueremosPastel
+usr=ipgtlljww&amp;nom=ROSA RODRIGUEZ LEON&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #Todoyo
+usr=niiuslwc&amp;nom=GLORIA ROCIO CABRERA SANCHEZ&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #Todoyo
+usr=mddundgny&amp;nom=PIEDAD CONSTANZA MORALES YARURO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #calor
+usr=rqgfjwf&amp;nom=MARTHA JEANETH AVILA MEDINA&amp;txt=¡Está entrando agua por la ventanilla de atrás! #fitness
+usr=nfgntjt&amp;nom=ANDREA LILIANA SAMPER MARTINEZ&amp;txt=¡Qué golazo! #Nosirve
+usr=afxclsww&amp;nom=ERLEY CAMACHO MENDOZA&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #puedeMejorar
+usr=ybmrmrql&amp;nom=JENNY PAOLA RODRIGUEZ MORENO&amp;txt=¡Qué mal jugó tu hermano ayer! #sad
+usr=djgxeuel&amp;nom=NESTOR LEONARDO PATIÑO NEIRA&amp;txt=¡Qué calor que hace en esta ciudad! #cuidado
+usr=ijnwqy&amp;nom=DIANA PATRICIA BENAVIDEZ SOLORZA&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #hambre
+usr=qclacbid&amp;nom=GLORIA ISABEL MARTINEZ PARRA&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #Hate
+usr=nkblxlk&amp;nom=SANDRA MILENA COLMENARES RINCON&amp;txt=¡Feliz cumpleaños! #sad
+usr=etocil&amp;nom=INGRID MAGALY GONZALEZ ROMERO&amp;txt=¡Estoy cansada de que me critiques! #duda
+usr=nsmvfcejh&amp;nom=LARISA HELENA GONZALES PATARROYO&amp;txt=¡Está entrando agua por la ventanilla de atrás! #crash
+usr=ydnovk&amp;nom=MONICA YENIFER CUELLAR RAMIREZ&amp;txt=¡Cada día te extraño más! #Nosirve
+usr=wpvamh&amp;nom=ZULENA MORA NAVAS&amp;txt=¡Qué mal jugó tu hermano ayer! #sad
+usr=dcvrainsf&amp;nom=LUISA FERNANDA SANCHEZ&amp;txt=¡Cada día te extraño más! #fitness
+usr=lhrybp&amp;nom=MARIA LILIANA MARTINEZ RIVADENEIRA&amp;txt=¡No puedo creer lo que me estás contando! #AmoComer
+usr=iuodbystb&amp;nom=MIRLEDIS JOHANA CERA BELEÑO&amp;txt=¡Amo la torta de chocolate! #Hate
+usr=nimhise&amp;nom=LUZ NANCY LANZA ANGULO&amp;txt=¡No puedo creer lo que me estás contando! #gol!!!
+usr=kkojupst&amp;nom=NESTOR IVAN BARRIOS JARAMILLO&amp;txt=¡Qué golazo! #enojad@
+usr=nxvyua&amp;nom=SONIA NELVY MARCELA CUBIDES CARBONELL&amp;txt=¡Feliz cumpleaños! #Nosirve
+usr=acboxa&amp;nom=LUISA FERNANDA SANCHEZ PRADO&amp;txt=¡Nunca me escuchas cuando te hablo! #cuidado
+usr=wffbnsuke&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Estoy muy contenta por la noticia que me diste! #hambre
+usr=qpxwrs&amp;nom=ANDREA ARIZA ZAMBRANO&amp;txt=¡Qué mujer más bonita! #fitness
+usr=dsxduc&amp;nom=JUAN DE JESUS VALENCIA AREVALO&amp;txt=¡Me olvidé el grabador de voz! #Hate
+usr=rpfryr&amp;nom=MARIA ELENA SALGADO MORENO&amp;txt=¡Estoy muy contenta por la noticia que me diste! #recuerdo
+usr=acggxi&amp;nom=LUZ NANCY LANZA ANGULO&amp;txt=¡No me digas! #gol!!!
+usr=vpfafggx&amp;nom=MARTHA ADRIANA VILLARREAL MASMELA&amp;txt=¡Me olvidé el grabador de voz! #crash
+usr=dsxduc&amp;nom=AYDA CATALINA PULIDO CHAPARRO&amp;txt=¡Nunca me escuchas cuando te hablo! #AmoComer
+usr=loqrvvk&amp;nom=CESAR AUGUSTO RAMIREZ LAVERDE&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #sad
+usr=mcmjxbsdk&amp;nom=CESAR AUGUSTO RAMIREZ LAVERDE&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #impresionad@
+usr=nkblxlk&amp;nom=TANIA MARCELA MANJARRES GARCIA&amp;txt=¡Qué mujer más bonita! #puedeMejorar
+usr=wbjomsong&amp;nom=ADRIANA GIRALDO GOMEZ&amp;txt=¡Qué lindo que te quedó el corte de pelo! #Nosirve
+usr=poompyudq&amp;nom=MARIA DEL PILAR BARAJAS TABIMA&amp;txt=¡Qué mujer más bonita! #enojad@
+usr=poxfnq&amp;nom=LUIS FELIPE REINOSA LOPEZ&amp;txt=¡No me digas! #Enamorado
+usr=adxfinthk&amp;nom=PAOLA ANDREA GALVIS ZAMORA&amp;txt=¡Qué lindo que es el paisaje de este lugar! #calor
+usr=wldlseede&amp;nom=MICHAEL ALEXANDER MURCIA LEGUIZAMON&amp;txt=¡Feliz cumpleaños! #enojad@
+usr=qprxmm&amp;nom=LUZ NANCY LANZA ANGULO&amp;txt=¡Me olvidé el grabador de voz! #feliz
+usr=nfxivls&amp;nom=GABY ELENITH MANZANO URIBE&amp;txt=¡Qué golazo! #duda
+usr=nbvhpl&amp;nom=MARTHA ADRIANA VILLARREAL MASMELA&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #puedeMejorar
+usr=ijnwqy&amp;nom=ISABEL GUIOMAR ANGELINA VILLAREAL TORRES&amp;txt=¡Cada día te extraño más! #gol!!!
+usr=thaecb&amp;nom=LIBIA ROSMIRA GONZALEZ NIÑO&amp;txt=¡No me digas! #hastaAqui
+usr=tpicbp&amp;nom=SANDRA BEATRIZ SARMIENTO BEJARANO&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #recuerdo
+usr=kekgfqa&amp;nom=NATALIA ELVIRA TORRIJOS VELASQUEZ&amp;txt=¡Qué golazo! #crash
+usr=sxenrxi&amp;nom=TANIA MARCELA MANJARRES GARCIA&amp;txt=¡Feliz cumpleaños! #AmoComer
+usr=pdtwou&amp;nom=FRANCE JURANNI CENDALES LADINO&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #Todoyo
+usr=auhnhrfcr&amp;nom=ANDREA DEL PILAR GUZMAN ROJAS&amp;txt=¡Qué mujer más bonita! #deseo
+usr=ygugtmbd&amp;nom=AYDA CATALINA PULIDO CHAPARRO&amp;txt=¡Cada día te extraño más! #lindo
+usr=hgsrbqf&amp;nom=GRACIELA TORRES TORRES&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #Nosirve
+usr=qclacbid&amp;nom=CONSTANZA AGUDELO FORERO&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #fitness
+usr=hmlpjjy&amp;nom=PAOLA ANDREA DIAZ TELLEZ&amp;txt=¡Me olvidé el grabador de voz! #hastaAqui
+usr=qsndmxnq&amp;nom=SONIA NELVY MARCELA CUBIDES CARBONELL&amp;txt=¡Cuidado que este estante está flojo! #puedeMejorar
+usr=umqlmor&amp;nom=MARTHA PATRICIA FORERO SILVA&amp;txt=¡Qué calor que hace en esta ciudad! #deseo
+usr=thqafhe&amp;nom=KETTY LOPEZ CONEO&amp;txt=¡Estoy muy contenta por la noticia que me diste! #ImissYou
+usr=jwoxolnkv&amp;nom=VICTORIA EDITH SANCHEZ TORRES&amp;txt=¡Cuidado que este estante está flojo! #impresionad@
+usr=vtmtfaj&amp;nom=PAOLA ANDREA DIAZ TELLEZ&amp;txt=¡Feliz cumpleaños! #duda
+usr=ccttpyphb&amp;nom=WILSON HERNANDEZ MOLANO&amp;txt=¡Qué mujer más bonita! #Nosirve
+usr=arbnje&amp;nom=ANDREA PAOLA GUTIERREZ ROMERO&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #impresionad@
+usr=wldlseede&amp;nom=MARTHA PATRICIA FORERO SILVA&amp;txt=¡Este aparato es un desastre! #impresionad@
+usr=bteopiall&amp;nom=LEONARDO GARZON RAMIREZ&amp;txt=¡Feliz cumpleaños! #deseo
+usr=vwnebegtt&amp;nom=ERIKA YINETH VILLALBA OLAYA&amp;txt=¡No me digas! #critica
+usr=eoryiw&amp;nom=MARIBEL PATIÑO ROMERO&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #Todoyo
+usr=xohbuir&amp;nom=YURY LISSETH ESPITIA VILLALVA&amp;txt=¡Qué calor que hace en esta ciudad! #No
+usr=uujkmo&amp;nom=JESUS ALVEIRO VERGEL GRECO&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #hambre
+usr=hxmigtmm&amp;nom=ANDREA MARCELA BARRAGAN GARCIA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #recuerdo
+usr=lobhml&amp;nom=MONICA LILIANA NAVAS CALDERON&amp;txt=¡Este aparato es un desastre! #enojad@
+usr=ycoijkt&amp;nom=ROSA TULIA AMEZQUITA RIPE&amp;txt=¡Se te rompió el cierre del pantalón! #recuerdo
+usr=eiyrxv&amp;nom=NESTOR LEONARDO PATIÑO NEIRA&amp;txt=¡Estoy cansada de que me critiques! #No
+usr=eteelxjlb&amp;nom=JENNY PAOLA RODRIGUEZ MORENO&amp;txt=¡Qué mujer más bonita! #sad
+usr=kkojupst&amp;nom=MARTHA PATRICIA FORERO SILVA&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #sad
+usr=qprxmm&amp;nom=MAGDA LILIANA ALAIX ACOSTA&amp;txt=¡Nunca me escuchas cuando te hablo! #calor
+usr=ihqndc&amp;nom=PAOLA SUSANA NIÑO AGUILAR&amp;txt=¡Qué golazo! #impresionad@
+usr=nsmvfcejh&amp;nom=REINALDO VALBUENA CARRERO&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #calor
+usr=nldobte&amp;nom=ZULENA MORA NAVAS&amp;txt=¡Amo la torta de chocolate! #saleCine
+usr=taltvkg&amp;nom=LINA PAOLA VARGA RIVEROS&amp;txt=¡Qué lindo que es el paisaje de este lugar! #sad
+usr=dfbxlwu&amp;nom=BERTHA XIMENA PATRICIA BARBOSA TORRES&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #recuerdo
+usr=wbjomsong&amp;nom=SANDRA PATRICIA MANOSALVA AGUDELO&amp;txt=¡Nunca me escuchas cuando te hablo! #saleCine
+usr=poxfnq&amp;nom=TANIA JIMENA TRUJILLO PEREZ&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #Hate
+usr=ecbiryd&amp;nom=LUZ NANCY LANZA ANGULO&amp;txt=¡Este aparato es un desastre! #calor
+usr=wtjeypxyr&amp;nom=SANDRA MILENA COLMENARES RINCON&amp;txt=¡Este aparato es un desastre! #critica
+usr=kxsffeda&amp;nom=MARIA DEL PILAR CASTILLO PINILLA&amp;txt=¡Nunca me escuchas cuando te hablo! #calor
+usr=qwergjwg&amp;nom=YANIRA ARIAS IZQUIERDO&amp;txt=¡Estoy muy contenta por la noticia que me diste! #AmoComer
+usr=bteopiall&amp;nom=SANDRA MILENA COLMENARES RINCON&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #feliz
+usr=qprxmm&amp;nom=GABY ELENITH MANZANO URIBE&amp;txt=¡Qué lindo que es el paisaje de este lugar! #Hate
+usr=arbnje&amp;nom=OLGA MERCEDES HIGUERA RODRIGUEZ&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #hastaAqui
+usr=gjhjbdalf&amp;nom=DIANA PATRICIA AVILA SAENZ&amp;txt=¡Qué golazo! #ImissYou
+usr=swctncnk&amp;nom=SANDRA PATRICIA MANOSALVA AGUDELO&amp;txt=¡Qué lindo que es el paisaje de este lugar! #sad
+usr=kgslpnhbx&amp;nom=GILMA ESPINOSA DIAZ&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #calor
+usr=nxehqg&amp;nom=LEONOR MELO LOPEZ&amp;txt=¡No puedo creer lo que me estás contando! #duda
+usr=vlmpsaaj&amp;nom=MARIA ELENA LOPEZ CHAPARRO&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #puedeMejorar
+usr=nldobte&amp;nom=GLORIA AMPARO PEREZ OSSA&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #critica
+usr=umqlmor&amp;nom=LUIS FELIPE REINOSA LOPEZ&amp;txt=¡Qué mujer más bonita! #impresionante
+usr=mucmraou&amp;nom=MARIA DEL PILAR ESPITIA MARTINEZ&amp;txt=¡No puedo creer lo que me estás contando! #impresionante
+usr=wuqhlg&amp;nom=LUZ MARINA DOMINGUEZ RAMOS&amp;txt=¡Qué lindo que es el paisaje de este lugar! #No
+usr=wtjeypxyr&amp;nom=GUSTAVO ALBERTO MENDOZA LOPEZ&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #saleCine
+usr=djgxeuel&amp;nom=MIRLEDIS JOHANA CERA BELEÑO&amp;txt=¡Qué calor que hace en esta ciudad! #sad
+usr=vfwuejc&amp;nom=PAOLA ANDREA GALVIS ZAMORA&amp;txt=¡No me digas! #Enamorado
+usr=qpxwrs&amp;nom=HERMES JACOBO GARCIA GUACANEME&amp;txt=¡Este aparato es un desastre! #impresionad@
+usr=vekfyg&amp;nom=MARIA LILIANA MARTINEZ RIVADENEIRA&amp;txt=¡No me digas! #AmoComer
+usr=unssllbk&amp;nom=TANIA MARCELA MANJARRES GARCIA&amp;txt=¡Está entrando agua por la ventanilla de atrás! #puedeMejorar
+usr=cfiijelel&amp;nom=INGRID YANETH ENCISO RODRIGUEZ&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #calor
+usr=qprxmm&amp;nom=NESTOR ELIAS SABOGAL DIAZ&amp;txt=¡Me olvidé el grabador de voz! #feliz
+usr=vtmtfaj&amp;nom=WILSON HERNANDEZ MOLANO&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #recuerdo
+usr=dcvrainsf&amp;nom=MIGUEL EDUARDO PEREZ MENDEZ&amp;txt=¡No me digas! #critica
+usr=xdslqywmo&amp;nom=LINA PAOLA VARGA RIVEROS&amp;txt=¡Qué rico aroma, quiero comer ya mismo! #Nosirve
+usr=ovkytnkc&amp;nom=VICTORIA EDITH SANCHEZ TORRES&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #QueremosPastel
+usr=etocil&amp;nom=KETTY LOPEZ CONEO&amp;txt=¡Estás mucho más flaca que la última vez que te vi! #lindo
+usr=djrgfo&amp;nom=PAOLA ANDREA GALVIS ZAMORA&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #cuidado
+usr=fgywymmpd&amp;nom=SANDRA CRISTINA DUEÑAS RUIZ&amp;txt=¡Este aparato es un desastre! #impactad@
+usr=thaecb&amp;nom=LUZ MARINA MORALES GARCIA&amp;txt=¡Cuidado que este estante está flojo! #impresionad@
+usr=lccuwnn&amp;nom=MARTHA ELVIRA ZAMBRANO BALLEN&amp;txt=¡No puedo creer lo que me estás contando! #No
+usr=xgtxunjt&amp;nom=LUZ MARINA DOMINGUEZ RAMOS&amp;txt=¡Cada día te extraño más! #Hate
+usr=nxvyua&amp;nom=MADIAN BOLIVAR SASTOQUE&amp;txt=¡No me digas! #critica
+usr=vtmtfaj&amp;nom=NIDIA LUZ ATEHORTUA GIRALDO&amp;txt=¡Qué calor que hace en esta ciudad! #puedeMejorar
+usr=nvrsbespf&amp;nom=NIDIA LUZ ATEHORTUA GIRALDO&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #AmoComer
+usr=ijnwqy&amp;nom=ADRIANA MARCELA SALCEDO SEGURA&amp;txt=¡Se te rompió el cierre del pantalón! #fitness
+usr=ihqndc&amp;nom=MARTHA CONSUELO GOMEZ CORREDOR&amp;txt=¡Te pusiste el pañuelo que te regalé para tu cumpleaños! #AmoComer
+usr=flfefhpac&amp;nom=MONICA QUINTERO PARRA&amp;txt=¡Feliz cumpleaños! #cuidado
+usr=rubohmjfd&amp;nom=YADIRA XIMENA MORENO SARMIENTO&amp;txt=¡Te queda espantosa esa pollera, ponte la otra! #impresionad@
+usr=aitiuxev&amp;nom=LEONOR MELO LOPEZ&amp;txt=¡Me encantan esos cuadros que colgaste en el living! #hastaAqui
+usr=myynctovy&amp;nom=ANDREA MARCELA BARRAGAN GARCIA&amp;txt=¡Nunca me escuchas cuando te hablo! #impresionante
+usr=onhpvsny&amp;nom=ELIZABETH JAIMES SANCHEZ&amp;txt=¡Todo tengo que hacerlo yo! #feliz
+usr=eonexuuti&amp;nom=DIANA CAROLINA PALACIOS ZAQUE&amp;txt=¡Qué lindo que es el paisaje de este lugar! #deseo
+usr=atqtrnq&amp;nom=CAMILO ALEXANDER BOLIVAR FORERO&amp;txt=¡Se te rompió el cierre del pantalón! #cuidado
+usr=vlmpsaaj&amp;nom=SONIA PATRICIA CAMARGO URREA&amp;txt=¡Qué mujer más bonita! #ImissYou
+usr=mddundgny&amp;nom=MARIA DEL PILAR BARAJAS TABIMA&amp;txt=¡Se te rompió el cierre del pantalón! #cuidado
+usr=qxkedka&amp;nom=MARTHA CONSUELO GOMEZ CORREDOR&amp;txt=¡No me digas! #crash
+usr=bmctvfcdy&amp;nom=PAULO ANDRES TORO&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #critica
+usr=etocil&amp;nom=MARTHA ELVIRA ZAMBRANO BALLEN&amp;txt=¡Qué golazo! #hastaAqui
+usr=fqjclp&amp;nom=PAULO ANDRES TORO&amp;txt=¡Cada día te extraño más! #impresionad@
+usr=umqlmor&amp;nom=PAULO ANDRES TORO&amp;txt=¡Qué lindo que es el paisaje de este lugar! #Enamorado
+usr=thaecb&amp;nom=LUIS FERNANDO TORRADO LEMUS&amp;txt=¡Qué mal jugó tu hermano ayer! #cuidado
+usr=oyecstum&amp;nom=MARIA CONSTANZA NIÑO RODRIGUEZ&amp;txt=¡Qué golazo! #crash
+usr=eteelxjlb&amp;nom=DIEGO ANDRES VALERO GARAY&amp;txt=¡Apúrate que vamos a llegar súper tarde al cine! #hastaAqui
+usr=gblcxtqwr&amp;nom=MONICA ALEJANDRA RIOS CORDOBA&amp;txt=¡Escuchá, esa es la canción que quiero poner en mi casamiento! #AmoComer
+usr=pwrfqkd&amp;nom=MARTHA CONSUELO GOMEZ CORREDOR&amp;txt=¡Qué lindo que te quedó el corte de pelo! #impactad@
+usr=qugtrwoc&amp;nom=MARIA DEL ROSARIO LOZANO MURILLO&amp;txt=¡Mira! Ese es el perrito que quiero que me regales para mi cumpleaños. #Todoyo
+usr=iegtafq&amp;nom=MONICA LOURDES CORTINA SILVA&amp;txt=¡No me digas! #Nosirve
+usr=nlcsrgpdk&amp;nom=MARIA LILIANA MARTINEZ RIVADENEIRA&amp;txt=¡Qué calor que hace en esta ciudad! #enojad@
+usr=qxkedka&amp;nom=MARTHA PATRICIA FORERO SILVA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #QueremosPastel
+usr=ybmrmrql&amp;nom=MONICA LOURDES CORTINA SILVA&amp;txt=¡Todo tengo que hacerlo yo! #crash
+usr=vuvtemyx&amp;nom=GUSTAVO ALBERTO MENDOZA LOPEZ&amp;txt=¡Nunca me escuchas cuando te hablo! #impactad@
+usr=arbnje&amp;nom=MARIA ELENA SALGADO MORENO&amp;txt=¡Todo tengo que hacerlo yo! #sad
+usr=eoryiw&amp;nom=MARIA ISABEL MENDEZ TORRES&amp;txt=¡Está entrando agua por la ventanilla de atrás! #Nosirve
+usr=nkewvv&amp;nom=MARTHA PATRICIA FORERO SILVA&amp;txt=¡Amo la torta de chocolate! #Hate
+usr=jtwxun&amp;nom=REINALDO VALBUENA CARRERO&amp;txt=¡Qué lindo que te quedó el corte de pelo! #Nosirve
+usr=nfxivls&amp;nom=SANDRA PATRICIA HERRERA SANABRIA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #Todoyo
+usr=jmtpdh&amp;nom=JUAN DE JESUS VALENCIA AREVALO&amp;txt=¡Qué calor que hace en esta ciudad! #lindo
+usr=lhrybp&amp;nom=NIDIA LUZ ATEHORTUA GIRALDO&amp;txt=¡Nunca me escuchas cuando te hablo! #impresionante
+usr=gwtaurxl&amp;nom=CONSUELO GUERRERO CALDERON&amp;txt=¡Estoy muy contenta por la noticia que me diste! #hastaAqui
+usr=eonexuuti&amp;nom=ERIKA ANDREA VANEGAS HERRERA&amp;txt=¡Estoy muy contenta por la noticia que me diste! #feliz
+usr=berpoyb&amp;nom=MONICA YENIFER CUELLAR RAMIREZ&amp;txt=¡Qué mal jugó tu hermano ayer! #crash
