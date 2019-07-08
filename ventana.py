@@ -150,7 +150,7 @@ class Aplicacion():
 
     def startSendRequest(self,url,request,concurrency,timeOut,filePath,x):
         for i in range(int(request)):
-            Traffic.sendDataToServer(url,int(timeOut))
+            Traffic.sendDataToServer(url,int(timeOut),filePath)
         #update progress bar
         self.on_done(x)
     

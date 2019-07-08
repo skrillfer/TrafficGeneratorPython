@@ -10,23 +10,21 @@ def getDataFromServer():
     r = requests.get('http://'+address_ip+':'+port)
     print(r.text)
 
-def sendDataToServer(url,timeOut):
+def sendDataToServer(url,timeOut,path):
     response = None
     try:
-        arrayData = getDataFromFile()
-        #dataJson = {'name':credentials[0],'username':credentials[1],'phrase':category[0],'tag':category[1]}
-        #appendToFile('usr='+dataJson['username']+'&amp;'+'nom='+dataJson['name']+'&amp;'+'txt='+dataJson['phrase']+' '+dataJson['tag'])
-        #response = requests.post(url+'/data', data = dataJson, timeout=timeOut)
-        #print(response.text)
+        dataJson = getDataFromFile(path)
+        response = requests.post(url+'/data', data = dataJson, timeout=timeOut)
+        print(response.text)
     except requests.Timeout:
         messagebox.showinfo('Error','TimeOut exceeded:'+timeOut)
     except ConnectionError as e:
         messagebox.showinfo('Error','Connection Error:'+str(e))
 
-def getDataFromFile():
+def getDataFromFile(path):
     print('gettin data')
     try:
-        print(Source.getLineRandom())
+        return Source.getLineRandom(path)
     except:
         print("An error occurred in getLineRandom()")
     return None
