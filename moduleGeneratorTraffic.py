@@ -14,6 +14,7 @@ def sendDataToServer(url,timeOut,path):
     response = None
     try:
         dataJson = getDataFromFile(path)
+        print('send to a server:'+str(dataJson))
         response = requests.post(url+'/data', data = dataJson, timeout=timeOut)
         print(response.text)
     except requests.Timeout:
